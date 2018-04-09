@@ -7,3 +7,5 @@ We implemented the following software components:
 * _Logic:_ Implementing the logic of the board game Nine Men's Morris
 * _Mechanics:_ Programming the movements of the robot (walking on the board, grabing gaming pieces and looking around to analyze the board)
 * _Artificial Intelligence:_ Teaching the robot to play and win the gamethe game and use its resources (computing capacity, memory and time) in the most effective way possible
+
+For additional information, take a look in the documents directory. There you can find a user guide, requirements, {object, architecture, class, system sequence}-diagram, and so on.
